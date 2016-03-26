@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_多线程断点续传下载/day21_多线程断点续传下载.iml" filepath="$PROJECT_DIR$/day21_多线程断点续传下载/day21_多线程断点续传下载.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima01_电话拨号器/heima01_电话拨号器.iml" filepath="$PROJECT_DIR$/heima01_电话拨号器/heima01_电话拨号器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima02_短信发送器/heima02_短信发送器.iml" filepath="$PROJECT_DIR$/heima02_短信发送器/heima02_短信发送器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima03_线性布局/heima03_线性布局.iml" filepath="$PROJECT_DIR$/heima03_线性布局/heima03_线性布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima04_相对布局/heima04_相对布局.iml" filepath="$PROJECT_DIR$/heima04_相对布局/heima04_相对布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima_自定义控件_youkumenau/heima_自定义控件_youkumenau.iml" filepath="$PROJECT_DIR$/heima_自定义控件_youkumenau/heima_自定义控件_youkumenau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heimaapp.iml" filepath="$PROJECT_DIR$/heimaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilemanager/mobilemanager.iml" filepath="$PROJECT_DIR$/mobilemanager/mobilemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilemanager/mobilemanager.iml" filepath="$PROJECT_DIR$/mobilemanager/mobilemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monkeyzzi2048/monkeyzzi2048.iml" filepath="$PROJECT_DIR$/monkeyzzi2048/monkeyzzi2048.iml" />
+    </modules>
+  </component>
+</project>
